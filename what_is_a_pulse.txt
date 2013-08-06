@@ -1,0 +1,16 @@
+Distinguish the pulse process, _______|________|____|___
+       ______
+      /     _\|
+ +--+         ,--.
+ |  |event    \__'ground state
+ +--+_       /
+    |\______/
+
+                                ___ __    ___ hi
+with the two state process, ____   _  ____   ___ low
+
+        low          hi
+  o_--> [] --> o --> []
+  |\_________________/
+
+
